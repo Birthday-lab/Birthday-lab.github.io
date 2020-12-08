@@ -1,0 +1,23 @@
+*{
+    background-color: black;
+    color: white;
+}
+
+.intro1{
+    text-align: center;
+    padding: 0px;
+    margin: 0px;
+    font-family: Florence, cursive;
+}
+
+#normal{
+    text-align: center;
+    font-family: creepster;
+}
+
+#image1 img{
+    width:12.5%;
+    height: 12.5%;
+    transform: translate(10px,-165px);
+
+}
